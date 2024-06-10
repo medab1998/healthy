@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\8711l31t\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\8711l31t\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "rive_text-Debug-x86": {
+      "artifactName": "rive_text",
+      "buildCommandComponents": [
+        "C:\\Users\\h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\8711l31t\\x86",
+        "rive_text"
+      ],
+      "abi": "x86",
+      "output": "C:\\Users\\h\\Desktop\\healthy-main\\build\\rive_common\\intermediates\\cxx\\Debug\\8711l31t\\obj\\x86\\librive_text.so",
+      "runtimeFiles": []
+    }
+  }
+}

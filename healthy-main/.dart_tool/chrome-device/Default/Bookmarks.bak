@@ -1,0 +1,140 @@
+{
+   "checksum": "0b67cae8847848e43b0d491d8f27b311",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13299325773287493",
+            "date_last_used": "0",
+            "guid": "dbac69c4-6cf8-4d09-a0b6-279b571768fe",
+            "id": "14",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13299325773287312",
+            "date_last_used": "0",
+            "guid": "e4e1c18c-9803-498b-8ad9-54fe9fff0ad2",
+            "id": "15",
+            "name": "Amazon.co.uk – Online Shopping",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=amazon&c=*&locale=en_uk&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13299325773286883",
+            "date_last_used": "0",
+            "guid": "e0470d18-514b-4b53-a363-a38fde51ac50",
+            "id": "16",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13362092912332745",
+         "date_last_used": "0",
+         "date_modified": "13299325773287493",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13351988702344705",
+            "date_last_used": "0",
+            "guid": "63697741-6fe1-404e-abc9-a9139ebd439d",
+            "id": "12",
+            "name": "The official repository for Dart and Flutter packages.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pub.dev/"
+         }, {
+            "date_added": "13353806468664238",
+            "date_last_used": "0",
+            "guid": "c448b440-e575-4daa-9202-5bae46c05d48",
+            "id": "13",
+            "name": "⦁Diagramme de cas utilisation « générale »: Lucidchart",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lucid.app/lucidchart/d8867888-9497-4ce1-adb5-7f79a80bd218/edit?invitationId=inv_365e56d2-2e25-451a-98c9-8fe439afa887&page=0_0#"
+         } ],
+         "date_added": "13362092912332748",
+         "date_last_used": "0",
+         "date_modified": "13353806468664238",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13191766559517264",
+            "date_last_used": "0",
+            "guid": "010a82e4-c8cc-4200-9c8d-75d7556b345b",
+            "id": "7",
+            "name": "مشاهدة فيلم Sex and the City 2 (2010) مترجم | EgyBest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://egy.best/movie/sex-and-the-city-2-2010/"
+         }, {
+            "date_added": "13191942283046532",
+            "date_last_used": "0",
+            "guid": "af1161cd-2075-474e-ae85-dacd71477e2f",
+            "id": "8",
+            "name": "مشاهدة فيلم Veer-Zaara (2004) مترجم | EgyBest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://egy.best/movie/veer-zaara-2004/"
+         }, {
+            "date_added": "13229900717059979",
+            "date_last_used": "0",
+            "guid": "e0088b18-632d-44d0-82ea-d216a73c3900",
+            "id": "9",
+            "name": "850 GB Of Courses & Training FOR FREE (GET THEM NOW) - Daily Premium Coupons For Online Courses",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onlypalms.com/850-gb-of-courses-training-for-free-get-them-now/"
+         }, {
+            "date_added": "13230431141135150",
+            "date_last_used": "0",
+            "guid": "2ce15da0-5777-4355-af77-a3fe4e561e41",
+            "id": "10",
+            "name": "مشاهدة فيلم Scent of a Woman (1992) مترجم - ايجي بست EgyBest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pool.egybest.com/movie/scent-of-a-woman-1992/?ref=search-p1"
+         }, {
+            "date_added": "13231437768008706",
+            "date_last_used": "0",
+            "guid": "c051f031-cf76-41d2-a981-932774d7ca2b",
+            "id": "11",
+            "name": "Confirmation de commande",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://electrotounes.tn/confirmation-commande?key=6e79e4e9b64151e636022cced602d3dd&id_cart=13301&id_module=87&id_order=724"
+         } ],
+         "date_added": "13362092912332750",
+         "date_last_used": "0",
+         "date_modified": "13231437768008706",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCM26IvCPAQAAEgAqGE1yOFM2NDRMSkdCdThCMG8ybDZzS1E9PUgDoAYMEqgBCA8SowEKHHByVlpPazdQTkxJN1ZWcUJpYm1UcG9FRnRKYz0SJGU0ZTFjMThjLTk4MDMtNDk4Yi04YWQ5LTU0ZmU5ZmZmMGFkMhgAIAAoADCpgKrc/DE4yoaq3PwxQMqGqtz8MUocZTRZclBKQlMyUjAwbi94bmNXYUJqckNKbFJ3PVofIh2lNlRRcUlXbG0rS1h1SnUzWDFiSUNHK1M1dEhJPWUAAAAAEqcBCAwSogEKHElYeGN0NWs0Y2cyUjQxUldMZ0p1bGZiMGROUT0SJDYzNjk3NzQxLTZmZTEtNDA0ZS1hYmM5LWE5MTM5ZWJkNDM5ZBgAIAAoADC36rL84DE49e6y/OAxQPXusvzgMUocNXZSZk8ydUc5UXBER3FDOS9BRm1CYkZ3M3Q0PVoeIhxlSGV1SVE1WTFBY1JyRFJtY1hHU2RxU0pNZXM9ZareUi0SiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZmUzYTNhZWItMjE5NS01ZTc0LThjN2UtOWIzOTBlZjc5ZGM2GAAgACgAMPqptdbXMTjlrLXW1zFA5ay11tcxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhZjM2NTY5YS02ODYzLTVhMWQtYjIzZS02MTE4ZjM4M2JmMWYYACAAKAAw+6m11tcxOISttdbXMUCErbXW1zFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGNhZWU1OWU5LTI2NWQtNWZhNy05NWUxLTIzYjJjZTBhOWVlNBgAIAAoADCAqrXW1zE4xq211tcxQMattdbXMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIChKjAQocM2l6MUFYR2ZLOVptd0RrRUorMnJsVk5WRmVrPRIkMmNlMTVkYTAtNTc3Ny00MzU1LWFmNzctYTNmZTRlNTYxZTQxGAAgACgAMKeAqtz8MTiRhqrc/DFAkYaq3PwxShxZNVExVzNLcVQydWdaU2xtS2xhcW8yVnhTSVU9Wh8iHb0zVi9JOHU0ZEV3QXZBQ0hET0t2TWdTQnRzZ0k9ZQAAAAASpwEIBxKiAQoceTV4RXJxWFk0TUpOK0piMGJPZFVVeExKd3FZPRIkMDEwYTgyZTQtYzhjYy00MjAwLTljOGQtNzVkNzU1NmIzNDViGAAgACgAMKWAqtz8MTiWharc/DFAloWq3PwxShxaOFZQVDFaVTM3WFBiMlQ1aExMY0RFRjlLdlk9Wh4iHExTQ1drODRySmdoMlZudlRxeE1Fb0UrUVVKRT1lAAAAABKnAQgJEqIBChx3ZGRpOEkyTk1mYWVUQ0Q1cVoxQmtqVlFweWc9EiRlMDA4OGIxOC02MzJkLTQ0ZDAtODJlYS1kMjE2YTczYzM5MDAYACAAKAAwo4Cq3PwxOOOEqtz8MUDjhKrc/DFKHGhnckhyK0hWN0ZQZmxXaDJsdDk4bzRLaDM4bz1aHiIcejQ2cnphcVJpS0dMUTJmRUJ0WTFLdUdiZk1RPWUAAAAAEqcBCAgSogEKHEhBQXd4NS9RV09yb0x1M0FaTHJOVm84WVZKcz0SJGFmMTE2MWNkLTIwNzUtNDc0ZS1hZTg1LWRhY2Q3MTQ3N2UyZhgAIAAoADCmgKrc/DE4x4Wq3PwxQMeFqtz8MUocQlgwS2Q5bjJoTTBVZ0x6bHBlbFNCWG9CRDQ4PVoeIhx3aGgwTm9hQk1qV28reTN0OXNuN3RxMEJzbEk9ZQAAAAASpwEIDhKiAQocU1Y3cVFTL0VZdjBROVh5aGJlaWhaSWh3am9FPRIkZGJhYzY5YzQtNmNmOC00ZDA5LWEwYjYtMjc5YjU3MTc2OGZlGAAgACgAMKSAqtz8MTj8hKrc/DFA/ISq3PwxShw1NVhpaGMxYUdCN3pOdWJLZjF4ZFRBbnBXSWc9Wh4iHEswSjViMjlHR2hrK2NhdkNMYjlKT2dVREh6dz1lAAAAABKoAQgNEqMBChwzajdUSHFSUXJqVHZ6em4rTE44WEQvMFFkSTQ9EiRjNDQ4YjQ0MC1lNTc1LTRkYWEtOTIwMi01YmFlNDZjMDVkNDgYACAAKAAwuOqy/OAxOJTvsvzgMUCU77L84DFKHGdHeGhETTRnR0p5eVRiWjdnQXgxZnlCVzgrOD1aHyIdskkxVVNNd0paUElKeVVmRysyazgzT2UwRVgxcz1laE9u6RKoAQgQEqMBChxNenZ3ZS9vNVh0UFVVSHVoZGNvQ3prS3FNeDQ9EiRlMDQ3MGQxOC01MTRiLTRiNTMtYTM2My1hMzhmZGU1MWFjNTAYACAAKAAwqICq3PwxOKyGqtz8MUCshqrc/DFKHHRjaFF2cU9tSjhZWHY1Zm04K2lSVnBDTUVxbz1aHyId0m9RZUtBejZTT01IU1ljRlU5bVlPMFVQN1JwWT1lAAAAABKoAQgLEqMBChw3ZXBuNGp0N2dJQU5ZeTBuUFdaMXhxREh0Qlk9EiRjMDUxZjAzMS1jZjc2LTQxZDItYTk4MS05MzI3NzRkN2NhMmIYACAAKAAwooCq3PwxOMqEqtz8MUDKhKrc/DFKHHUxUVVwZ2RqR3dKTHFCRnk1UnpXMSsyekRpaz1aHyId3lVodXppbW1sL0pMVTBHbG96a2xWT1hRWHJvST1lAAAAADAAOAA=",
+   "version": 1
+}

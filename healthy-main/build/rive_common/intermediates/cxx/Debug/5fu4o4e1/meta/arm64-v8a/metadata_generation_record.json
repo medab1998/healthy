@@ -1,0 +1,982 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -163691848
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1561013839
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1888620387
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1692136357
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1596931069
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 58602969
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1938171059
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d19\n-DANDROID_PLATFORM\u003dandroid-19\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\h\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\h\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\h\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\h\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\xampp\\htdocs\\healthy-main\\build\\rive_common\\intermediates\\cxx\\Debug\\5fu4o4e1\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\xampp\\htdocs\\healthy-main\\build\\rive_common\\intermediates\\cxx\\Debug\\5fu4o4e1\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1688347047
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 455391681
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -721724261
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1437108870
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1967074907
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android\",\n  \"buildDirectory\": \"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1561351149
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -319649060
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d19\",\n    \"-DANDROID_PLATFORM\\u003dandroid-19\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\h\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.1.8937393\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\h\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.1.8937393\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\h\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.1.8937393\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\h\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\xampp\\\\htdocs\\\\healthy-main\\\\build\\\\rive_common\\\\intermediates\\\\cxx\\\\Debug\\\\5fu4o4e1\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003dC:\\\\xampp\\\\htdocs\\\\healthy-main\\\\build\\\\rive_common\\\\intermediates\\\\cxx\\\\Debug\\\\5fu4o4e1\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -382018656
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\\n  C:/Users/h/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1082932343
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\r\n  C:/Users/h/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\r\n  CMakeLists.txt\r\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1503837494
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1819674221
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -559283483
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\\n  C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 392747873
+  },
+  {
+    "level_": 2,
+    "message_": "CMake Warning at C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\r\n  C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\r\n  C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\r\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -738029828
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -493989798
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1848019067
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1038775747
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 147401524
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 683169068
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1552106255
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -179509117
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info - done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1256218571
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1384565041
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -815352809
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -582672295
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 488141239
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1418451925
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1021356168
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features - done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1856008832
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2137110413
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 82606085
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 969922207
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1006625957
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 466207907
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1047788980
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1193091500
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1968384682
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1815591421
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info - done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1414824779
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2048256945
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 586569623
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1136753214
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1707991690
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1641251445
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 57687041
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1522768648
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features - done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 475651840
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2058486703
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1831260914
+  },
+  {
+    "level_": 0,
+    "message_": "Configuring done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -744105030
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1969681809
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"compute\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1012742660
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1941329601
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -331437428
+  },
+  {
+    "level_": 0,
+    "message_": "Generating done",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -995908033
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -932126476
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"cmakeInputs\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1083977701
+  },
+  {
+    "level_": 0,
+    "message_": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../../../../Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\",\"../../../../../../Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake\",\"../../../../../../Android/Sdk/ndk/25.1.8937393/build/cmake/platforms.cmake\",\"../../../../../../Android/Sdk/ndk/25.1.8937393/build/cmake/compiler_id.cmake\",\"../../../../../../Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/Debug/5fu4o4e1/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/h/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 416128414
+  },
+  {
+    "level_": 0,
+    "message_": "{\"type\":\"codemodel\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 782824123
+  },
+  {
+    "level_": 0,
+    "message_": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android\",\"targets\":[{\"artifacts\":[\"C:/xampp/htdocs/healthy-main/build/rive_common/intermediates/cxx/Debug/5fu4o4e1/obj/arm64-v8a/librive_text.so\"],\"buildDirectory\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/.cxx/Debug/5fu4o4e1/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -DWITH_RIVE_TEXT -DWITH_RIVE_AUDIO_TOOLS -DWITH_RIVE_AUDIO -DMA_NO_RESOURCE_MANAGER -DHAVE_OT -DHB_NO_FALLBACK_SHAPE -DHB_NO_WIN1256 -DHB_NO_EXTERN_HELPERS -DHB_NO_BUFFER_VERIFY -DHB_NO_BUFFER_MESSAGE -DHB_NO_PAINT -DHB_NO_MMAP -DHB_NO_META -DYOGA_EXPORT\u003d -std\u003dc++11 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"rive_text_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/harfbuzz/src\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/rive-cpp/skia/renderer/include\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/rive-cpp/include\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/SheenBidi/Headers\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/miniaudio\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/yoga\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"../ios/rive_text/rive_text.cpp\",\"../ios/rive-cpp/src/math/raw_path.cpp\",\"../ios/rive-cpp/src/math/mat2d.cpp\",\"../ios/rive-cpp/src/renderer.cpp\",\"../ios/rive-cpp/src/text/font_hb.cpp\",\"../ios/rive-cpp/src/text/line_breaker.cpp\",\"../ios/rive-cpp/src/audio/audio_engine.cpp\",\"../ios/rive-cpp/src/audio/audio_source.cpp\",\"../ios/rive-cpp/src/audio/audio_sound.cpp\",\"../ios/rive-cpp/src/audio/audio_reader.cpp\",\"../ios/harfbuzz/src/hb-aat-layout.cc\",\"../ios/harfbuzz/src/hb-aat-map.cc\",\"../ios/harfbuzz/src/hb-blob.cc\",\"../ios/harfbuzz/src/hb-buffer-serialize.cc\",\"../ios/harfbuzz/src/hb-buffer-verify.cc\",\"../ios/harfbuzz/src/hb-buffer.cc\",\"../ios/harfbuzz/src/hb-common.cc\",\"../ios/harfbuzz/src/hb-draw.cc\",\"../ios/harfbuzz/src/hb-face.cc\",\"../ios/harfbuzz/src/hb-font.cc\",\"../ios/harfbuzz/src/hb-map.cc\",\"../ios/harfbuzz/src/hb-number.cc\",\"../ios/harfbuzz/src/hb-ot-cff1-table.cc\",\"../ios/harfbuzz/src/hb-ot-cff2-table.cc\",\"../ios/harfbuzz/src/hb-ot-color.cc\",\"../ios/harfbuzz/src/hb-ot-face.cc\",\"../ios/harfbuzz/src/hb-ot-font.cc\",\"../ios/harfbuzz/src/hb-ot-layout.cc\",\"../ios/harfbuzz/src/hb-ot-map.cc\",\"../ios/harfbuzz/src/hb-ot-math.cc\",\"../ios/harfbuzz/src/hb-ot-meta.cc\",\"../ios/harfbuzz/src/hb-ot-metrics.cc\",\"../ios/harfbuzz/src/hb-ot-name.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-arabic.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-default.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-hangul.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-hebrew.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-indic-table.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-indic.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-khmer.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-myanmar.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-syllabic.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-thai.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-use.cc\",\"../ios/harfbuzz/src/hb-ot-shaper-vowel-constraints.cc\",\"../ios/harfbuzz/src/hb-ot-shape-fallback.cc\",\"../ios/harfbuzz/src/hb-ot-shape-normalize.cc\",\"../ios/harfbuzz/src/hb-ot-shape.cc\",\"../ios/harfbuzz/src/hb-ot-tag.cc\",\"../ios/harfbuzz/src/hb-ot-var.cc\",\"../ios/harfbuzz/src/hb-set.cc\",\"../ios/harfbuzz/src/hb-shape-plan.cc\",\"../ios/harfbuzz/src/hb-shape.cc\",\"../ios/harfbuzz/src/hb-shaper.cc\",\"../ios/harfbuzz/src/hb-static.cc\",\"../ios/harfbuzz/src/hb-subset-cff-common.cc\",\"../ios/harfbuzz/src/hb-subset-cff1.cc\",\"../ios/harfbuzz/src/hb-subset-cff2.cc\",\"../ios/harfbuzz/src/hb-subset-input.cc\",\"../ios/harfbuzz/src/hb-subset-plan.cc\",\"../ios/harfbuzz/src/hb-subset-repacker.cc\",\"../ios/harfbuzz/src/hb-subset.cc\",\"../ios/harfbuzz/src/hb-ucd.cc\",\"../ios/harfbuzz/src/hb-unicode.cc\",\"../ios/harfbuzz/src/graph/gsubgpos-context.cc\",\"../ios/harfbuzz/src/hb-paint.cc\",\"../ios/harfbuzz/src/hb-paint-extents.cc\",\"../ios/harfbuzz/src/hb-outline.cc\",\"../ios/harfbuzz/src/hb-subset-instancer-solver.cc\",\"../ios/harfbuzz/src/hb-face-builder.cc\",\"../ios/common.cpp\",\"../ios/yoga/yoga/Utils.cpp\",\"../ios/yoga/yoga/YGConfig.cpp\",\"../ios/yoga/yoga/YGLayout.cpp\",\"../ios/yoga/yoga/YGEnums.cpp\",\"../ios/yoga/yoga/YGNodePrint.cpp\",\"../ios/yoga/yoga/YGNode.cpp\",\"../ios/yoga/yoga/YGValue.cpp\",\"../ios/yoga/yoga/YGStyle.cpp\",\"../ios/yoga/yoga/Yoga.cpp\",\"../ios/yoga/yoga/event/event.cpp\",\"../ios/yoga/yoga/log.cpp\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -DSB_CONFIG_UNITY -fno-limit-debug-info  -fPIC  \",\"defines\":[\"rive_text_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/harfbuzz/src\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/rive-cpp/skia/renderer/include\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/rive-cpp/include\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/SheenBidi/Headers\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/miniaudio\"},{\"path\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android/../ios/yoga\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../ios/SheenBidi/Source/SheenBidi.c\"]}],\"fullName\":\"librive_text.so\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"rive_text\",\"sourceDirectory\":\"C:/Users/h/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/rive_common-0.4.8/android\",\"sysroot\":\"C:/Users/h/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1489504490
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1909277320
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\.cxx\\Debug\\5fu4o4e1\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 246085435
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\h\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\rive_common-0.4.8\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 28795764
+  }
+]
